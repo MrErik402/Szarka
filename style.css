@@ -1,0 +1,46 @@
+body{
+    background-color: aliceblue;
+    color: darkblue;
+}
+#elso{
+    color:aliceblue;
+    background-color: crimson;
+}
+a:link, a:hover, a:visited,h2{
+    color: crimson;
+}
+#cimkep{
+    margin-right: 10%;
+    margin-left: 20%;
+}
+#vonal{
+    width: 70%;
+    margin-left: 17%;
+}
+#tabla1{
+    width: 400px;
+    text-align: center;
+    margin-left: 35%;
+}
+#kep1{
+    width: 230px;
+    height: 158px;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+#kep2{
+    width: 230px;
+    height: 158px;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    margin-left: 80%;
+}
+#tabla2{
+    width: 500px;
+    margin-left: 40%;
+}
+#elso{
+    width: 240px;
+}
